@@ -1,0 +1,6 @@
+# zip-unzip-gbk
+1. zip utf-8 filenames into gbk filenames
+2. unzip gbk filenames to utf-8 filenames
+
+## Dependencies
+python2 zipfile
